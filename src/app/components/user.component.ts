@@ -42,7 +42,7 @@ export class UserComponent {
 
   constructor() {
     this.name = 'Alex';
-    this.email = 'alex@co.pl';
+    this.email = 'alex@com.pl';
     this.address = {
       street: 'Main12',
       city: 'Posen',
